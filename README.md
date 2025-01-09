@@ -1,3 +1,3 @@
 # broadway
 
-Webpage using HTML and CSS
+Web Page using HTML and CSS
